@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/BankEase/static/css/main.0900af8e.chunk.css",
+    "main.js": "/BankEase/static/js/main.b7e5e780.chunk.js",
+    "main.js.map": "/BankEase/static/js/main.b7e5e780.chunk.js.map",
+    "runtime-main.js": "/BankEase/static/js/runtime-main.a425edba.js",
+    "runtime-main.js.map": "/BankEase/static/js/runtime-main.a425edba.js.map",
+    "static/js/2.d139e27d.chunk.js": "/BankEase/static/js/2.d139e27d.chunk.js",
+    "static/js/2.d139e27d.chunk.js.map": "/BankEase/static/js/2.d139e27d.chunk.js.map",
+    "index.html": "/BankEase/index.html",
+    "static/css/main.0900af8e.chunk.css.map": "/BankEase/static/css/main.0900af8e.chunk.css.map",
+    "static/js/2.d139e27d.chunk.js.LICENSE.txt": "/BankEase/static/js/2.d139e27d.chunk.js.LICENSE.txt",
+    "static/media/front.d28831bc.mp4": "/BankEase/static/media/front.d28831bc.mp4",
+    "static/media/svg-1.svg": "/BankEase/static/media/svg-1.f712e604.svg",
+    "static/media/svg-2.svg": "/BankEase/static/media/svg-2.76ede97c.svg",
+    "static/media/svg-3.svg": "/BankEase/static/media/svg-3.79dcbe05.svg",
+    "static/media/svg-4.8ecee141.svg": "/BankEase/static/media/svg-4.8ecee141.svg",
+    "static/media/svg-5.cdffd539.svg": "/BankEase/static/media/svg-5.cdffd539.svg",
+    "static/media/svg-6.0e900e00.svg": "/BankEase/static/media/svg-6.0e900e00.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a425edba.js",
+    "static/js/2.d139e27d.chunk.js",
+    "static/css/main.0900af8e.chunk.css",
+    "static/js/main.b7e5e780.chunk.js"
+  ]
+}
